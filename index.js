@@ -9,4 +9,4 @@ function clickHousePlugin (fastify, opts, done) {
 
 }
 
-module.exports = fp(dbPlugin)
+module.exports = fp(clickHousePlugin)
